@@ -6,6 +6,7 @@
 3. Moved widgets on top of static links
 4. Removed RSS link
 5. Rename the theme and the theme author
+6. Various fixes so that the theme looks more linke svbtle.com
 
 ## What needs to be done?
 1. Create a nice screenshot.png and screenshot-big.png for the theme
