@@ -74,7 +74,7 @@
 				
 				<?php if (!empty($options['contact_email'])): ?>
 					<li class="link email">
-						<a href="mailto:<?php echo $options['contact_email'] ?>">						
+						<a href="mailto:<?php echo $options['contact_email'] ?>?subject=hi">						
 							say hello</a> 
 					</li>
 				<?php endif ?>
