@@ -1,5 +1,13 @@
 # improved-wp-svbtle
 
+## This fork is different by this stuff
+1. Removed the today date from index page
+2. Removed page listing from header
+3. Moved widgets on top of static links
+4. Removed RSS link
+
+## What needs to be done?
+1. Rename the theme and the theme author
   
 ## Installation
 1. Move the folder wp-content/themes/svbltle into wp-content/themes/
