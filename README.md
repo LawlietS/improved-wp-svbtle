@@ -5,9 +5,10 @@
 2. Removed page listing from header
 3. Moved widgets on top of static links
 4. Removed RSS link
+5. Rename the theme and the theme author
 
 ## What needs to be done?
-1. Rename the theme and the theme author
+1. Create a nice screenshot.png and screenshot-big.png for the theme
   
 ## Installation
 1. Move the folder wp-content/themes/svbltle into wp-content/themes/
