@@ -1,11 +1,5 @@
-# wp-svbtle
-#### Wordpress admin & Theme inspired by svbtle.com. [Follow us on twitter][]
+# improved-wp-svbtle
 
-  [Follow us on twitter]: http://twitter.com/gravityonmars
-
-[View Demo][]
-
-  [View Demo]: http://wp-svbtle.bootstrapthem.es/
   
 ## Installation
 1. Move the folder wp-content/themes/svbltle into wp-content/themes/
@@ -15,36 +9,11 @@
 
 Admin area & theme are 100% independent from each other! 
 
-## Screenshots 
-
-![][3]
-
-![][1]
-
-![][2]
-
-![][4]
-
-![][5]
-
- [3]: https://github.com/gravityonmars/wp-svbtle/raw/master/wp-svbtle/screenshot-3.png
- [1]: https://github.com/gravityonmars/wp-svbtle/raw/master/wp-svbtle/screenshot-1.png
- [2]: https://github.com/gravityonmars/wp-svbtle/raw/master/wp-svbtle/screenshot-2.png
- [4]: https://github.com/gravityonmars/wp-svbtle/raw/master/wp-svbtle/screenshot-4.png
- [5]: https://github.com/gravityonmars/wp-svbtle/raw/master/wp-svbtle/screenshot-5.png
-
-## FAQ 
-
-### Isn't this unoriginal?
-Yes, in the same way svbtle is unoriginal. [See the original][] ["inspiration" for svbtle].
-
-[See the original]: http://drawar.com
-
 ## License 
 
 (The MIT License)
 
-Copyright (c) 2011 Ricardo Rauch &lt;ricardo@gravityonmars.com&gt;
+Copyright (c) 2012 Andrei Zvonimir Crnković &lt;andrei@teaandandrei.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
