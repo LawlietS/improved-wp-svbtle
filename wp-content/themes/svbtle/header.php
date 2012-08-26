@@ -82,8 +82,8 @@
 				
 		  </ul>
 		  <aside id="svbtle_linkback">
-		    <a href="https://github.com/gravityonmars/wp-svbtle">
-		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">wp-svbtle</span>
+		    <a href="https://github.com/andreicek/improved-wp-svbtle">
+		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">improved-wp-svbtle</span>
 		    </a>
 		  </aside>
 		</header>
