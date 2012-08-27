@@ -7,6 +7,7 @@
 4. Removed RSS link
 5. Rename the theme and the theme author
 6. Various fixes so that the theme looks more like svbtle.com
+7. Added log in button on the sidebar (not sure if it will stay)
 
 ## What needs to be done?
 1. Create a nice screenshot.png and screenshot-big.png for the theme
