@@ -81,12 +81,11 @@
 		
 				
 		  </ul>
-		  <aside id="svbtle_admin">
-		    <a href="https://www.teaandandrei.com/wp-svbtle">
-		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">admin log in</span>
-		    </a>
-		  </aside>
 		  <aside id="svbtle_linkback">
+		  <a href="https://www.teaandandrei.com/wp-svbtle">
+		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">admin log in</span>
+		    </a><br/>
+		    <br/>
 		    <a href="https://github.com/andreicek/improved-wp-svbtle">
 		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">improved-wp-svbtle</span>
 		    </a>
