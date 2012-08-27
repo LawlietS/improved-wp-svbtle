@@ -15,7 +15,6 @@
 			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 		<?php
-
 			if ( is_singular() && get_option( 'thread_comments' ) )
 				wp_enqueue_script( 'comment-reply' );
 
@@ -82,11 +81,7 @@
 				
 		  </ul>
 		  <aside id="svbtle_linkback">
-		  <a href="https://www.teaandandrei.com/wp-svbtle">
-		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">admin log in</span>
-		    </a><br/>
-		    <br/>
-		    <a href="https://github.com/andreicek/improved-wp-svbtle">
+		    <br/><a href="https://github.com/andreicek/improved-wp-svbtle">
 		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">improved-wp-svbtle</span>
 		    </a>
 		  </aside>
