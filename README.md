@@ -9,10 +9,10 @@
 6. Various fixes so that the theme looks more like svbtle.com
 7. Added log in button on the sidebar (not sure if it will stay)
 8. Create a nice screenshot.png for the theme
+9. Add a link from theme options for download admin panel
 
 ## What needs to be done?
 1. Make it Wordpress.org compliant
-2. Add a link from theme options for download admin panel
   
 ## Installation
 1. Move the folder improved-wp-svbltle into wp-content/themes/
