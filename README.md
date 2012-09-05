@@ -1,6 +1,6 @@
 # improved-wp-svbtle
 
-## This fork is different by this stuff
+## Change log v0.1
 1. Removed the today date from index page
 2. Removed page listing from header
 3. Moved widgets on top of static links
@@ -8,12 +8,14 @@
 5. Rename the theme and the theme author
 6. Various fixes so that the theme looks more like svbtle.com
 7. Added log in button on the sidebar (not sure if it will stay)
+8. Create a nice screenshot.png for the theme
 
 ## What needs to be done?
-1. Create a nice screenshot.png and screenshot-big.png for the theme
+1. Make it Wordpress.org compliant
+2. Add a link from theme options for download admin panel
   
 ## Installation
-1. Move the folder wp-content/themes/svbltle into wp-content/themes/
+1. Move the folder improved-wp-svbltle into wp-content/themes/
 2. Enable the theme from the admin panel
 3. Move wp-svbtle to the root of your wordpress installation.
 4. Log in to yourdomain.com/wp-svbtle for a new blogging experience!
