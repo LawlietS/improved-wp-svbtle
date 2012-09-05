@@ -65,7 +65,8 @@ function theme_options_do_page() {
 				<p class="submit">
 					<input type="submit" class="button-primary" value="<?php _e( 'Save Options', 'wordpress-svbtle' ); ?>" />
 				</p>
-	
+	<p><?php _e( '<a href="http://github.com/andreicek/improved-wp-svbtle">See</a> theme on GitHub and download the admin panel for free.', 'wordpress-svbtle' ); ?></p>
+<p><?php _e( '2012. TeaAndAndrei.com', 'wordpress-svbtle' ); ?></p>
 		</form>
 	</div>
 	<?php
